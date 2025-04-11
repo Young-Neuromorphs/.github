@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="./Logo.png" alt="Community Logo" height="120" />
+  <img src="../Logo.png" alt="Community Logo" height="120" />
 </div>
 
 
